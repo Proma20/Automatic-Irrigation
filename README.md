@@ -1,2 +1,2 @@
 # Automatic-Irrigation
-A simple microprocessor project that detects the moisture level of the soil and starts the water pump automatically whenever needed.
+Just upload the lasttry.hex code to the PIC in proteus design and then run it. Depending on the input that has been connected to the button, the motor will either start or stop. Operate the inputs using the push buttons.
